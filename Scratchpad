@@ -3,3 +3,6 @@ sudo apt update
 docker images
 
 docker ps
+
+sudo apt install dos2unix
+
